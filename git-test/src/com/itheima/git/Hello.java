@@ -12,4 +12,10 @@ public class Hello {
         System.out.println("aaaaaaaaa");
         System.out.println("aaaaaaaaa");
     }
+    public void test(){
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
+    }
 }
